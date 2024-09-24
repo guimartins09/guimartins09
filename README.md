@@ -15,4 +15,4 @@ luis.martins.oliveira17@escola.pr.gov.br
 @gui_martins__09
 
 
-![_] (https://tenor.com/pt-BR/view/negan-twd-the-walking-dead-rick-grimes-negan-baseball-bat-gif-15149580178865461111)
+![](https://media.tenor.com/0j4e6CGTF3cAAAAM/negan-twd.gif)
