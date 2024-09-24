@@ -4,7 +4,7 @@ meu nome é luis guilherme
 
 -estou estudando na alura
 
--tou me desenvolvendo na linguagem javascript
+-estou me desenvolvendo na linguagem javascript
 
 -ultilizo esse espaço para compartilhamento dos meus projetos desenvolvidos
 
