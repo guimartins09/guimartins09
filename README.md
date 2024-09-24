@@ -2,7 +2,7 @@
 
 meu nome é luis guilherme 
 
--estou estudando na alura
+-estou estudando na [alura](https://www.alura.com.br/)
 
 -estou me desenvolvendo na linguagem javascript
 
